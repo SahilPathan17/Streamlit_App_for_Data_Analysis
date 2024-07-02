@@ -2,6 +2,8 @@
 
 This project showcases a data analysis web application built using Streamlit. The app is designed to be interactive, user-friendly, and capable of handling various data exploration and profiling tasks.
 
+---
+
 <p>
 
 ## Project Overview
